@@ -7,7 +7,7 @@
 <li>Team member for migrating from enterprise MSSQL Databases to PostgreSQL for cost saving purpose<br></li>
 <li>Development and deploymet of Biometric solution for truck drivers verification (8000+ drivers)<br></li>
 <li>Dev and implementation of weighbridge solution for truck dispatch<br></li>
-<li>Development of a balanced scorecard appraical solution.<br></li>
+<li>Development of a balanced scorecard appraisal solution.<br></li>
 <li>Database development: writing complex scripts (sprocs) for reporting purpose.<br></li>
 <li>Health management Solution: parameterized health provider management solution with account, patient, payment, other modules.<br></li>
 <li>SOAP webservices: building and consuming webservices (NIID webservices, SxS webservices for banking tokens, other projects).<br></li>
@@ -16,6 +16,7 @@
 <li>Health Insurance application for administering health insurance and claims.<br></li>
 <li>Staff of the month application: a HR web application used to determine staff with highest performance based on certain criteria, on a monthly basis.<br></li>
 <li>MSSQL server database administration, and database backend support.<br></li>
+<li>SMS report portal: provide UI for management on company's SMS statistics<br></li>
 
 </ul>
 <hr>
