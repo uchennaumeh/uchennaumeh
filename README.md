@@ -7,6 +7,7 @@
 <li>Team member for migrating from enterprise MSSQL Databases to PostgreSQL for cost saving purpose<br></li>
 <li>Development and deploymet of Biometric solution for truck drivers verification (8000+ drivers)<br></li>
 <li>Dev and implementation of weighbridge solution for truck dispatch<br></li>
+<li>Implementation of StarINs (a robust insurance software) for a leading insurance company in Nigeria/Ghana<br></li>
 <li>Development of a balanced scorecard appraisal solution.<br></li>
 <li>Database development: writing complex scripts (sprocs) for reporting purpose.<br></li>
 <li>Health management Solution: parameterized health provider management solution with account, patient, payment, other modules.<br></li>
