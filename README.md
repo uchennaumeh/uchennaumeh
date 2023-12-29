@@ -26,7 +26,7 @@
 
 
 - 🌱 I’m currently learning python for NLP while constantly trying to improve my programming knowledege and skills. Also, PowerApps and Poer Automate for process digitization. Azure DevOps.
-- 💞️ I’m looking to collaborate on any project with any team in any capacity that would make me grow while contributing significantly to the project
+- 💞️ I’m looking to collaborate on any project with any team in any capacity that would make me grow while contributing significantly to the project.
 - 📫 How to reach me uchennaumeh19@yahoo.com, +2347034744522, https://www.linkedin.com/in/uchenna-umeh-gerald/, https://uchennaumeh19.journoportfolio.com/
 
 <!---
