@@ -15,17 +15,19 @@
 <li>Stop gap sugarcane management solution.<br></li>
 <li>Inventory/Requisition order portal for internal stores unit.<br></li>
 <li>Health Insurance application for administering health insurance and claims.<br></li>
-<li>Staff of the month application: a HR web application used to determine staff with highest performance based on certain criteria, on a monthly basis.<br></li>
+<li>Employee of the month application: a HR web application used to determine staff with highest performance based on certain criteria, on a monthly basis.<br></li>
 <li>MSSQL server database administration, and database backend support.<br></li>
 <li>SMS report portal: provide UI for management on company's SMS statistics<br></li>
+<li>HELPER solutions - for carrying out various ad hoc functinalities to main ERP  solutions<br></li>
+<li>SharePoint adminsistration, powerApps, PowerAutomate<br></li>
 
 </ul>
 <hr>
 
 
-- 🌱 I’m currently learning python for NLP while constantly trying to improve my programming knowledege and skills 
+- 🌱 I’m currently learning python for NLP while constantly trying to improve my programming knowledege and skills. Also, PowerApps and Poer Automate for process digitization.
 - 💞️ I’m looking to collaborate on any project with any team in any capacity that would make me grow while contributing significantly to the project
-- 📫 How to reach me uchennaumeh19@yahoo.com, +2347034744522
+- 📫 How to reach me uchennaumeh19@yahoo.com, +2347034744522, https://www.linkedin.com/in/uchenna-umeh-gerald/, https://uchennaumeh19.journoportfolio.com/
 
 <!---
 uchennaumeh/uchennaumeh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
